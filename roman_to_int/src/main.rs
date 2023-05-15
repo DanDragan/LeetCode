@@ -73,5 +73,5 @@ fn test_roman_to_int() {
     assert!(roman_to_int("MCCLXXIV".to_string()) == 1274);
     assert!(roman_to_int("MCMXLIV".to_string()) == 1944);
     assert!(roman_to_int("XIX".to_string()) == 19);
-    assert!(roman_to_int("XIVIII".to_string()) == 17);
+    assert!(roman_to_int("XVII".to_string()) == 17);
 }
