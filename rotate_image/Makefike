@@ -1,0 +1,2 @@
+all:
+	g++ -o rotate_image rotate_image.cpp

@@ -1,2 +1,2 @@
 all:
-	g++ -fpermissive 4SumII.cpp -o 4SumII	
+	g++ 4SumII.cpp -o 4SumII	
